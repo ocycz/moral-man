@@ -1,1 +1,3 @@
+names = ["Bob", "Jeff", "Clarissa"]
 
+icons = [r'C:\Users\Adrian\Scripts and things\Moral Man\Icons\frame1.png', r'C:\Users\Adrian\Scripts and things\Moral Man\Icons\frame2.png', r'C:\Users\Adrian\Scripts and things\Moral Man\Icons\frame3.png']
